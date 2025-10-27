@@ -15,7 +15,7 @@ except ImportError:
     print("⚠️ Groq not installed. Run: pip install groq")
 
 app = Flask(__name__)
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "give your api key here"
 
 
 groq_client = None
